@@ -1,0 +1,48 @@
+.card_part .card{
+    margin-top: 50px;
+    width: 100% !important;
+}
+.card_part .cart_bar{
+    background: rgba(0, 12, 12, 0.71);
+      padding-bottom: 100px;
+}
+.card_part .card .card-header h4{
+    font-family: "Oswald", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+.card_part .card li{
+    text-transform: capitalize;
+    font-size: 16px;
+    font-family: "Oswald", sans-serif;
+}
+.card_part .card .card-header p{
+    font-family: "Oswald", sans-serif;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+.card_part .card .card-header{
+    text-align: center;
+    
+}
+.card_part a{
+      font-family: "Madimi One", sans-serif;
+}
+.card_part .list-group{
+    text-align: center;
+}
+
+.end_part .end{
+    background: green;
+    height: 40px;
+}
+.end_part h5{
+    text-align: center;
+  text-transform: capitalize;
+  color: aliceblue;
+  font-size: 20px;
+  line-height: 40px;
+  font-family: "Madimi One", sans-serif;
+
+}
+

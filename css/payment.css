@@ -1,0 +1,68 @@
+.manubar{
+    background: #ddd;
+}
+.payment_part{
+    background: #ddd;
+    min-height: 100vh;
+    vertical-align: middle;
+    display: flex;
+    
+}
+.payment_part .payment_bar{
+    background: #b4b4b4;
+    
+}
+.payment_part h5{
+    text-align: center;
+    padding-top: 10px;
+}
+.payment_part .amount{
+    width: 100%;
+      
+}
+.card{
+    margin: auto;
+    width: 600px;
+    padding: 3rem 3.5rem;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.payment_part .form-group{
+    text-align: center;
+    padding-top: 5px;
+
+}
+.payment_part .form-group span{
+    color: red;
+    padding-top: 5px;
+}
+.payment_part .form-group .bkash{
+    padding-top: 50px;
+}
+.payment_part .form-group .form-control{
+    margin-bottom: 10px;
+}
+.payment_part .form-group .form-control:focus{
+      box-shadow: 0 0 0 .25rem rgba(237, 14, 14, 0.62);
+}
+.payment_part .form-group label{
+    padding-bottom: 10px;
+}
+.payment_part .pay{
+    margin-top: 50px;
+}
+.payment_part .money{
+    margin-top: 10px;
+
+}
+.payment_part .paybutton{
+    text-align: center;
+}
+.payment_part .btn{
+    width: 150px;
+    height: 40px;
+
+
+}
+
